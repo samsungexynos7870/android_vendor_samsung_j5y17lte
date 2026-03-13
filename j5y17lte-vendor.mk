@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
     libexynoscamera3 \
     libbauthserver \
     libbauthtzcommon \
+    libyasalgo \
     libegis_fp_normal_sensor_test \
     libgf_in_system_lib \
     libqfp_sensortest \
